@@ -7,7 +7,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.TestBaseRapor;
 
-public class Us_01 extends TestBaseRapor {
+public class Us_001 extends TestBaseRapor {
 
     HomePage homePage = new HomePage();
     SoftAssert softAssert = new SoftAssert();
