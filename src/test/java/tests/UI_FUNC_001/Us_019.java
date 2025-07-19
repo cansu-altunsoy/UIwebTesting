@@ -8,7 +8,7 @@ import utilities.ConfigReader;
 import utilities.ReusableMethods;
 import utilities.TestBaseRapor;
 
-public class Us_19 extends TestBaseRapor {
+public class Us_019 extends TestBaseRapor {
 
     HomePage homePage = new HomePage();
     AdminExitPage adminExitPage = new AdminExitPage();
