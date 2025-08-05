@@ -362,7 +362,6 @@ public class Us_29 extends TestBaseRapor {
 
         }
 
-
         softAssert.assertTrue(adminDepartmentsPage.editPage.isDisplayed(), "edit page görünür değil");
         extentTest.fail("edit e basıp gerekli düzenlemeleri yapar Save butonuna tıklar. ");
 
