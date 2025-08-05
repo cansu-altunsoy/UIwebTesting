@@ -421,7 +421,6 @@ public class Us_29 extends TestBaseRapor {
 
         }
 
-
         //7)Admin profile tıklar.
         //8)Logout butonuna tıklar
 
