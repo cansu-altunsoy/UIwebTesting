@@ -14,7 +14,7 @@ import java.awt.*;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
 
-public class Us_30 extends TestBaseRapor {
+public class Us_030 extends TestBaseRapor {
 
 
     SoftAssert softAssert = new SoftAssert();
