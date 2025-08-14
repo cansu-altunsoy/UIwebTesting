@@ -215,6 +215,7 @@ public class Us_032 extends TestBaseRapor {
 
     }
 
+
     @Test
     public void TC_005_zorunluAlanTesti() {
         extentTest = extentReports.createTest("Zorunlu Alan Testi",
@@ -267,6 +268,7 @@ public class Us_032 extends TestBaseRapor {
         extentTest.info("Sayfayi kapatir");
 
     }
+
 
     @Test
     public void TC_006_zorunluAlanTesti() {
