@@ -390,6 +390,7 @@ public class Us_032 extends TestBaseRapor {
 
     }
 
+
     @Test
     public void TC_008_negatifGorselTesti() {
         extentTest = extentReports.createTest("Doktor Gorseli Gorunurluk Testi",
@@ -464,6 +465,7 @@ public class Us_032 extends TestBaseRapor {
         extentTest.info("Sayfayi kapatir");
 
     }
+
 
 }
 
