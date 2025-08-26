@@ -128,6 +128,7 @@ public class Us_041 extends TestBaseRapor {
 
     }
 
+
     @Test
     public void TC041_003() {
         extentTest = extentReports.createTest("Yöneticinin Randevu kartlarında bulunan  Tarih,Seri numarası,Doktor ismi,Departmen ismi, iletilen mesaj ve mesajın iletilme tarihi cardlarda görüntüleblirliği testi.\n",
@@ -214,6 +215,7 @@ public class Us_041 extends TestBaseRapor {
 
 
     }
+
 
     @Test
     public void TC041_004() {
