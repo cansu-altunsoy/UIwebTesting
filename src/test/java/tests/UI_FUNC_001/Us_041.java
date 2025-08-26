@@ -270,6 +270,7 @@ public class Us_041 extends TestBaseRapor {
         extentTest.info("Window kapatılır.");
     }
 
+
     @Test
     public void TC041_005() {
         extentTest = extentReports.createTest("Yöneticinin  \"« Previous \" butonunu erişilebilirlik testi..\n",
