@@ -80,6 +80,7 @@ public class Us_041 extends TestBaseRapor {
 
     }
 
+
     @Test
     public void TC041_002() {
         extentTest = extentReports.createTest("Yöneticinin  Tickets sayfasında \" LoyalFriendCareTickets\" başlığı altında sayfadaki randevu kartların  görüntülenebilirlik testi.\n",
