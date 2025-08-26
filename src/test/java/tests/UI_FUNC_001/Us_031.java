@@ -9,7 +9,7 @@ import utilities.Driver;
 import utilities.ReusableMethods;
 import utilities.TestBaseRapor;
 
-public class Us_31 extends TestBaseRapor {
+public class Us_031 extends TestBaseRapor {
 
     AdminDoctorsPage adminDoctorsPage = new AdminDoctorsPage();
     HomePage homePage = new HomePage();
