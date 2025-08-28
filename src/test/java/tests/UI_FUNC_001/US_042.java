@@ -39,6 +39,8 @@ public class US_042 {
         //8-Sayfayı kapatır
         Driver.quitDriver();
     }
+
+
     @Test
     public void test02(){
         //1-https://qa.loyalfriendcare.com/en/login sitesine gider
@@ -74,5 +76,6 @@ public class US_042 {
         Driver.quitDriver();
 
     }
+
 
 }
