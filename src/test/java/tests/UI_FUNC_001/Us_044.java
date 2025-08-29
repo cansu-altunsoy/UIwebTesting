@@ -13,6 +13,7 @@ import utilities.TestBaseRapor;
 public class Us_044 extends TestBaseRapor {
 
 
+
     @Test
     public void TC_001() {
         extentTest = extentReports.createTest("US_044_TC_001", "Adminin güvenli bir şekilde çıkış yapabilmeli");
@@ -59,4 +60,5 @@ public class Us_044 extends TestBaseRapor {
         extentTest.info("sayfayı kapatır.");
 
     }
+
 }
