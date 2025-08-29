@@ -1,6 +1,5 @@
 package tests.UI_FUNC_001;
 
-
 import org.testng.annotations.Test;
 import pages.AdminExitPage;
 import pages.AdminHomePage;
